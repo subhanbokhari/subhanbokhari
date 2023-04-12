@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subhanbokhari
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Programming
+- 🌱 I’m currently learning Object Oreinted Programming and HTML/CSS
 - 💞️ I’m looking to collaborate on various projects.
 - 📫 How to reach me subhanbokhari0@gmail.com
 

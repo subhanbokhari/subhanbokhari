@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Laravel](https://github.com/subhanbokhari/Laravel-Hello-World-.git)
 
-- 🌱 I’m currently learning **ReactJs, Laravel**
+- 🌱 I’m currently learning *Python**Django*
 
 - 👨‍💻 All of my projects are available at [https://github.com/subhanbokhari](https://github.com/subhanbokhari)
 

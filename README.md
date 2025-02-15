@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Subhan Bokhari</h1>
-<h3 align="center">A passionate Front-End Developer from Pakistan</h3>
+<h3 align="center">A passionate Data Science Freelancer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhanbokhari&label=Profile%20views&color=0e75b6&style=flat" alt="subhanbokhari" /> </p>
 
-- 🔭 I’m currently working on [Laravel](https://github.com/subhanbokhari/Laravel-Hello-World-.git)
+- 🔭 I’m currently working on Data Science projects as a freelancer.
 
-- 🌱 I’m currently learning *Python**Django*
+- 🌱 I’m currently learning **DevOps techniques**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/subhanbokhari](https://github.com/subhanbokhari)
 
-- 💬 Ask me about **ReactJs, DevOps**
+- 💬 Ask me about **ReactJs, Data Science**.
 
 - 📫 How to reach me **subhanbokhari0@gmail.com**
 

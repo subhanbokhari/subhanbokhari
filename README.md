@@ -27,12 +27,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/numpy/numpy/main/tools/logo/numpylogo.svg" alt="numpy" width="40" height="40"/> </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/pandas-dev/pandas/main/doc/sources/_static/pandas.svg" alt="pandas" width="40" height="40"/> </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/seaborn-logo-dark-background.svg" alt="seaborn" width="40" height="40"/> </a>
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_images/logo2.svg" alt="matplotlib" width="40" height="40"/> </a>
-    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="tensorflow" width="40" height="40"/> </a>
-    <a href="https://spacy.io/" target="_blank" rel="noreferrer"> <img src="https://spacy.io/images/spacy_logo.svg" alt="spacy" width="40" height="40"/> </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
